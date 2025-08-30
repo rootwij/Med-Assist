@@ -185,8 +185,8 @@ The setup script creates sample data including:
 - Dr. Emily Rodriguez (Dermatology)
 
 ### Sample Patient
-- **Name**: Neel Patel
-- **Email**: neel.patel@example.com
+- **Name**: ABC   
+- **Email**: abc@abc.com
 - **Conditions**: Hypertension, Type 2 Diabetes
 - **Location**: New York, NY
 
